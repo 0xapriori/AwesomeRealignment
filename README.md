@@ -65,6 +65,12 @@ Basic ingredients of BRAID (MCP):
 - [EIP-7805: Fork-choice enforced Inclusion Lists (FOCIL)](https://eips.ethereum.org/EIPS/eip-7805)
 - [On Multi-proposer Gadgets and Protocols (FOCIL vs. BRAID)](https://hackmd.io/xz1UyksETR-pCsazePMAjw)
 
-
-
+## Application Specific Sequencing 
+- [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/pdf/2209.15569)
+- [Atlas whitepaper](https://www.fastlane.xyz/Atlas_Whitepaper.pdf)
+- [A New Era of DeFi with App-Specific Sequencing](https://sorellalabs.xyz/writing/a-new-era-of-defi-with-ass)
+- [How do we make dApps great again with Application-Specific Sequencing](https://www.semanticlayer.io/blog/10)
+- [Application specific sequencing infrastructure trade-offs](https://arxiv.org/pdf/2209.15569)
+- [Intents & Solvers Are Just ASS (App Specific Sequencing)](https://www.youtube.com/watch?v=LHpybw9xHCA)
+- 
 
