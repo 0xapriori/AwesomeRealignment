@@ -74,6 +74,10 @@ Basic ingredients of BRAID (MCP):
 - [Intents & Solvers Are Just ASS (App Specific Sequencing)](https://www.youtube.com/watch?v=LHpybw9xHCA)
 
 ## Ethereum is the World Computer, always has been
+
+The _World Computer_ is a global shared mainframe on top of which applications can be built, enabling those applications and the users participating
+in them to seamlessly interact without needing to agree on a shared actor that everyone trusts.
+
 - [Revisiting the World Computer](https://user.fm/files/v2-261b7914c204931fbf213d7d35307264/worldcomputer.pdf)
 - [Ethereum's North Star](https://dba.xyz/ethereums-north-star/)
 
