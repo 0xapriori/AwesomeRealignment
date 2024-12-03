@@ -66,6 +66,9 @@ Basic ingredients of BRAID (MCP):
 - [On Multi-proposer Gadgets and Protocols (FOCIL vs. BRAID)](https://hackmd.io/xz1UyksETR-pCsazePMAjw)
 
 ## Application Specific Sequencing 
+
+Application specific sequencing gives individual apps the power to take control of how their transactions are sequenced via verifiable sequencing rules. 
+
 - [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/pdf/2209.15569)
 - [Atlas whitepaper](https://www.fastlane.xyz/Atlas_Whitepaper.pdf)
 - [A New Era of DeFi with App-Specific Sequencing](https://sorellalabs.xyz/writing/a-new-era-of-defi-with-ass)
