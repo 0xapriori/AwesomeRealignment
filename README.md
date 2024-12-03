@@ -72,5 +72,8 @@ Basic ingredients of BRAID (MCP):
 - [How do we make dApps great again with Application-Specific Sequencing](https://www.semanticlayer.io/blog/10)
 - [Application specific sequencing infrastructure trade-offs](https://arxiv.org/pdf/2209.15569)
 - [Intents & Solvers Are Just ASS (App Specific Sequencing)](https://www.youtube.com/watch?v=LHpybw9xHCA)
-- 
+
+## Ethereum is the World Computer, always has been
+- [Revisiting the World Computer](https://user.fm/files/v2-261b7914c204931fbf213d7d35307264/worldcomputer.pdf)
+- [Ethereum's North Star](https://dba.xyz/ethereums-north-star/)
 
