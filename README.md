@@ -1,4 +1,4 @@
-# AwesomeRealignment
+# Awesome Realignment
 This repository contains a list of resources that help one understand the current popular topics in Ethereum ecosystem and thus realign themselves with the current meta. 
 
 ## Native Rollups
