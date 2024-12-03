@@ -48,7 +48,7 @@ Booster rollups are rollups that execute transactions as if they are executed on
 - [Deep Dive into Ethereum's Beam chain](https://www.youtube.com/watch?v=88FDeg5JaUk&pp=ygUgYmFua2xlc3MganVzdGluIGRyYWtlIGJlYW0gY2hhaW4%3D)
 - [Peter Szilagyi on Beam Chain](https://x.com/peter_szilagyi/status/1856353006729736456?s=46&t=bVZ6b-mdBr3JpXAez04mAg)
 
-## Multiple Concurrent Proposers
+## Censorship Resistance - Multiple Concurrent Proposers / FOCIL
 
 Basic ingredients of BRAID (MCP):
 1. Run k separate parallel chains using the same validator set.
