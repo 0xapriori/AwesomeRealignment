@@ -7,7 +7,7 @@ arbitrary horizontal scaling using an EVM-in-EVM precompile to cheaply verify EV
 
 - [OG reddit post](https://www.reddit.com/r/ethereum/comments/1f81ntr/ama_we_are_ef_research_pt_12_05_september_2024/)
 - [What might an "enshriend ZK-EVM" look like](https://notes.ethereum.org/@vbuterin/enshrined_zk_evm)
-- [Ethereum Endgame re-viisted](https://research.anoma.net/t/ethereum-endgame-revisited/810#p-3268-state-transition-function-3)
+- [Ethereum Endgame re-visited](https://research.anoma.net/t/ethereum-endgame-revisited/810#p-3268-state-transition-function-3)
 - [SNARK proving ASICs (time-stamped)](https://youtu.be/URCH2d1cdyg?feature=shared&t=371)
 
 ## Based Rollups / Sequencing / Preconfs
